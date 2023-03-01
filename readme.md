@@ -1,4 +1,4 @@
-# MFLIX API
+# VUEFLIX API
 
 Couple of enpoints of Node.js API using MongoDB Atlas sample mflix data collection. Initial Back-end for [VUEFLIX](https://github.com/rodri-afa/vueflix)
 
