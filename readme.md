@@ -12,7 +12,7 @@ Couple of enpoints of Node.js API using MongoDB Atlas sample mflix data collecti
    mongodb+srv://yourUserName:yourPassword@YourCluster.f0vkpcm.mongodb.net/sample_mflix?retryWrites=true&w=majority
    ```
 1. Create a .env environment file with a variable called ATLAS_URL
-  ```.env
+   ```.env
    ATLAS_URL="mongodb+srv://yourUserName:yourPassword@YourCluster.f0vkpcm.mongodb.net/sample_mflix?retryWrites=true&w=majority"
    ```
 1. Install dependencies with:
